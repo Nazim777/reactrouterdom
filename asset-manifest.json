@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactrouterdom/static/css/main.825df245.css",
+    "main.js": "/reactrouterdom/static/js/main.c4201f64.js",
+    "index.html": "/reactrouterdom/index.html",
+    "main.825df245.css.map": "/reactrouterdom/static/css/main.825df245.css.map",
+    "main.c4201f64.js.map": "/reactrouterdom/static/js/main.c4201f64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825df245.css",
+    "static/js/main.c4201f64.js"
+  ]
+}
