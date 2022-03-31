@@ -28,3 +28,53 @@ padding: 20px;
 .list li:hover{
   color: blueviolet;
 }
+.image{
+  width: 100%;
+
+
+}
+.img{
+  width: 200px;
+  height: 100%;
+}
+button{
+  background-color: crimson;
+  color: orange;
+  border-radius: 12px;
+  padding: 5px;
+  text-align: center;
+}
+span{
+  text-align: center;
+  background-color: cyan;
+  margin: auto;
+}
+.cart{
+  display: flex;
+}
+.row{
+  border: 1px solid orange;
+  
+}
+.add-to-cart{
+ 
+  width: 100%;
+  margin: 200px;
+}
+.images{
+  position: absolute;
+  top: 0;
+  right: 5px;
+ 
+  width: 50px;
+  height: 50px;
+  
+}
+.add-to-cart span{
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  border-radius: 50%;
+  padding: 0 10px;
+
+}
